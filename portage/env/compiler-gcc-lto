@@ -1,0 +1,6 @@
+CC="gcc"
+CXX="g++"
+
+CFLAGS="-march=native -mtune=native -O3 -flto -fomit-frame-pointer -fmerge-all-constants"
+CXXFLAGS="${CFLAGS}"
+LDFLAGS="-Wl,--gc-sections"

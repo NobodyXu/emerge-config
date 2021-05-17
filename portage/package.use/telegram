@@ -1,0 +1,2 @@
+dev-qt/qtgui egl eglfs X
+net-im/telegram-desktop -spell -hunspell -gtk -lto

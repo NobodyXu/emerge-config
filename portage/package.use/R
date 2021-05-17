@@ -1,0 +1,2 @@
+sci-libs/lapack lapacke
+dev-lang/R jpeg png lapack cairo

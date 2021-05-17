@@ -1,0 +1,4 @@
+CC="clang"
+CXX="clang++"
+CXXFLAGS="-stdlib=libc++ ${CFLAGS}"
+LDFLAGS="-fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind ${LDFLAGS}"

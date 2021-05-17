@@ -1,0 +1,1 @@
+sys-apps/firejail -chroot contrib dbusproxy file-transfer globalcfg network overlayfs private-home suid userns whitelist

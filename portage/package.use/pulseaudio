@@ -1,0 +1,1 @@
+media-sound/pulseaudio -asyncns -ipv6 -ssl -tcpd bluetooth

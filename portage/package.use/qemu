@@ -1,0 +1,2 @@
+# usbredir is required for virt-manager to work
+app-emulation/qemu -aio -curl io-uring vhost-user-fs virtfs xfs spice opengl -oss usbredir

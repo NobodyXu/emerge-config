@@ -1,0 +1,80 @@
+app-portage/logclean
+
+sys-kernel/gentoo-sources
+sys-firmware/nvidia-firmware
+sys-devel/gcc
+
+gui-apps/tuigreet
+gui-apps/waybar
+
+gui-apps/foot
+gui-apps/foot-terminfo # Required by foot
+dev-libs/tllist # Required by foot
+media-libs/fcft # Required by foot
+
+dev-libs/spdlog # Required by waybar
+dev-libs/date # Required by waybar
+
+gui-libs/greetd
+dev-libs/light
+
+dev-libs/bemenu
+
+dev-util/bloaty
+dev-util/github-cli
+dev-util/sccache
+dev-libs/capstone
+
+dev-python/neovim-remote
+dev-python/numba
+
+dev-qt/qt-creator
+dev-qt/qtquicktimeline
+
+app-emulation/docker
+app-emulation/containerd
+app-emulation/runc
+app-emulation/docker-proxy
+app-emulation/docker-cli
+sys-process/tini
+
+dev-java/icedtea
+dev-java/openjdk
+dev-java/openjdk-bin # For bootstraping openjdk
+dev-java/openjfx
+dev-java/swt # Required for openjfx
+dev-java/gradle-bin
+
+net-proxy/shadowsocks-libev
+net-libs/libbloom
+net-libs/libcork
+net-libs/libcorkipset
+
+www-client/firefox
+
+# For rstudio
+sci-mathematics/rstudio
+app-text/pandoc
+dev-java/gin:2.1
+dev-java/validation-api
+dev-java/gwt
+dev-haskell/pandoc-citeproc
+dev-haskell/aeson
+dev-haskell/aeson-pretty
+dev-haskell/attoparsec
+dev-haskell/base-compat
+dev-haskell/data-default
+dev-haskell/hsyaml
+dev-haskell/hsyaml-aeson
+dev-haskell/libyaml
+dev-haskell/mtl
+dev-haskell/network
+dev-haskell/old-locale
+dev-haskell/pandoc-types
+dev-haskell/parsec
+dev-haskell/safe
+dev-haskell/setenv
+dev-haskell/semigroups
+dev-haskell/*
+dev-lang/ghc
+app-admin/haskell-updater

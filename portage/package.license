@@ -1,0 +1,16 @@
+# required by sys-kernel/genkernel-4.1.2-r3::gentoo[firmware]
+# required by sys-kernel/genkernel (argument)
+sys-kernel/linux-firmware linux-fw-redistributable no-source-code
+
+sys-firmware/nvidia-firmware NVIDIA-r2
+
+net-im/zoom all-rights-reserved
+# required by media-fonts/kochi-substitute (argument)
+>=media-fonts/kochi-substitute-20030809-r3 free-noncomm
+# required by dev-java/gwt-2.8.2::gentoo
+# required by dev-java/gin-2.1.2::gentoo
+# required by sci-mathematics/rstudio-1.3.1093::gentoo
+# required by sci-mathematics/rstudio (argument)
+=dev-java/json-20150729 JSON
+
+net-analyzer/nmap NPSL

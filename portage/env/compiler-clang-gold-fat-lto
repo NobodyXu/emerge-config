@@ -1,0 +1,2 @@
+CFLAGS="-march=skylake -mtune=intel -O3 -flto -fmerge-all-constants -fomit-frame-pointer"
+LDFLAGS="-flto -Wl,--gc-sections"
