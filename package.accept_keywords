@@ -23,6 +23,7 @@ dev-libs/bemenu
 dev-util/bloaty
 dev-util/github-cli
 dev-util/sccache
+dev-util/rustup
 dev-libs/capstone
 
 dev-python/neovim-remote
