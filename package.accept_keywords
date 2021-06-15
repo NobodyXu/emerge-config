@@ -26,6 +26,8 @@ dev-util/sccache
 dev-util/rustup
 dev-libs/capstone
 
+dev-cpp/benchmark
+
 dev-python/neovim-remote
 dev-python/numba
 
