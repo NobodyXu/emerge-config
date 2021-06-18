@@ -25,6 +25,7 @@ dev-util/github-cli
 dev-util/sccache
 dev-util/rustup
 dev-libs/capstone
+dev-libs/nss
 
 dev-cpp/benchmark
 
