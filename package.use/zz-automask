@@ -149,3 +149,6 @@
 # required by @selected
 # required by @world (argument)
 >=media-libs/freetype-2.10.4 harfbuzz
+# required by app-emulation/snapd-2.51::gentoo
+# required by app-emulation/snapd (argument)
+>=sys-fs/squashfs-tools-4.4_p1 lzma

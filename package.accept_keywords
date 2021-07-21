@@ -1,5 +1,7 @@
 app-portage/logclean
 
+app-emulation/snapd
+
 sys-kernel/gentoo-sources
 sys-firmware/nvidia-firmware
 sys-devel/gcc
