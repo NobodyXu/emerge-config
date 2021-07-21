@@ -1,1 +1,2 @@
-sys-devel/llvm gold default-lld
+sys-devel/llvm gold
+sys-devel/clang default-lld
