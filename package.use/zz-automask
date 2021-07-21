@@ -144,3 +144,8 @@
 # required by @selected
 # required by @world (argument)
 >=media-libs/harfbuzz-2.8.1 introspection
+# required by x11-libs/pango-1.48.7::gentoo
+# required by www-client/google-chrome-91.0.4472.114::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/freetype-2.10.4 harfbuzz

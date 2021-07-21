@@ -56,19 +56,19 @@ net-libs/libcorkipset
 
 www-client/firefox
 
-# accept new llvm version, since rust is already built with it.
-# If rust and system llvm differs, some program might malfunction.
-sys-devel/llvm
-sys-devel/clang
-sys-devel/lld
-sys-devel/llvmgold
-sys-devel/clang-runtime
-sys-libs/libcxx
-sys-libs/libcxxabi
-sys-libs/compiler-rt
-sys-libs/compiler-rt-sanitizers
-sys-libs/llvm-libunwind
-sys-libs/libomp
+## accept new llvm version, since rust is already built with it.
+## If rust and system llvm differs, firefox will failed to compile.
+#sys-devel/llvm
+#sys-devel/clang
+#sys-devel/lld
+#sys-devel/llvmgold
+#sys-devel/clang-runtime
+#sys-libs/libcxx
+#sys-libs/libcxxabi
+#sys-libs/compiler-rt
+#sys-libs/compiler-rt-sanitizers
+#sys-libs/llvm-libunwind
+#sys-libs/libomp
 
 # For rstudio
 sci-mathematics/rstudio
