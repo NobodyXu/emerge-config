@@ -1,2 +1,6 @@
 sys-devel/llvm gold
 sys-devel/clang default-lld
+
+sys-libs/libcxx static-libs
+sys-libs/libcxxabi static-libs
+sys-libs/llvm-libunwind static-libs
