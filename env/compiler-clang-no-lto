@@ -1,5 +1,5 @@
 CC="clang"
 CXX="clang++"
-CFLAGS="-march=native -mtune=native -O2"
+CFLAGS="-march=native -O2"
 CXXFLAGS="${CFLAGS}"
 LDFLAGS="-fuse-ld=lld -Wl,--gc-sections"

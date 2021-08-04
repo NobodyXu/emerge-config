@@ -1,5 +1,5 @@
 CC="gcc"
 CXX="g++"
 
-CFLAGS="-march=native -mtune=native -O2"
+CFLAGS="-march=native -O2"
 CXXFLAGS="${CFLAGS}"

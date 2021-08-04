@@ -1,7 +1,7 @@
 CC="clang"
 CXX="clang++"
 
-CFLAGS="-march=native -mtune=native -fmerge-all-constants"
+CFLAGS="-march=native -fmerge-all-constants"
 LDFLAGS="-Wl,--gc-sections,--as-needed"
 
 CXXFLAGS="${CFLAGS}"
