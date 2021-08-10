@@ -26,6 +26,8 @@ dev-util/bloaty
 dev-util/github-cli
 dev-util/sccache
 dev-util/rustup
+dev-util/perf
+
 dev-libs/capstone
 dev-libs/nss
 
