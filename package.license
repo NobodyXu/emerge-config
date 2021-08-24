@@ -16,3 +16,5 @@ net-im/zoom all-rights-reserved
 net-analyzer/nmap NPSL
 
 www-client/google-chrome google-chrome
+
+dev-db/mongodb SSPL-1
