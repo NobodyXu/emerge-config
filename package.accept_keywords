@@ -21,6 +21,7 @@ gui-libs/greetd
 dev-libs/light
 
 dev-libs/bemenu
+=dev-libs/nspr-4.32
 
 dev-util/bloaty
 dev-util/github-cli
