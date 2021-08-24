@@ -5,6 +5,7 @@ app-emulation/snapd
 sys-kernel/gentoo-sources
 sys-firmware/nvidia-firmware
 sys-devel/gcc
+sys-fs/bees
 
 gui-apps/tuigreet
 gui-apps/waybar
