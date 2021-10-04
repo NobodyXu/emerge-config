@@ -2,4 +2,4 @@
 # miri is the new rust ir interpreter for constexpr op
 # nightly is used to enable some new features of rust/cargo
 # system-llvm is there so that installed llvm is used, instead of compiling their own version
-dev-lang/rust clippy rls rustfmt miri nightly system-llvm parallel-compiler wasm llvm_targets_WebAssembly
+dev-lang/rust clippy rls rustfmt miri nightly system-llvm wasm llvm_targets_WebAssembly
