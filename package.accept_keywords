@@ -60,6 +60,8 @@ net-libs/libbloom
 net-libs/libcork
 net-libs/libcorkipset
 
+dev-util/rust-analyzer
+
 www-client/firefox
 
 ## accept new llvm version, since rust is already built with it.
