@@ -152,3 +152,12 @@
 # required by app-emulation/snapd-2.51::gentoo
 # required by app-emulation/snapd (argument)
 >=sys-fs/squashfs-tools-4.4_p1 lzma
+# required by app-text/texlive-core-2021-r1::gentoo
+# required by virtual/tex-base-0::gentoo
+# required by app-text/lcdf-typetools-2.108-r1::gentoo
+# required by app-text/texlive-2021::gentoo
+# required by app-text/texlive (argument)
+>=media-libs/harfbuzz-2.9.1 icu
+# required by app-editors/retext-7.2.1::gentoo
+# required by app-editors/retext (argument)
+>=dev-python/PyQt5-5.15.4-r1 printsupport gui widgets
