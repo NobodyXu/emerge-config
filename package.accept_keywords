@@ -1,7 +1,5 @@
 app-portage/logclean
 
-app-emulation/snapd
-
 sys-kernel/gentoo-sources
 sys-firmware/nvidia-firmware
 sys-devel/gcc
@@ -41,11 +39,13 @@ dev-python/numba
 dev-qt/qt-creator
 dev-qt/qtquicktimeline
 
+app-emulation/snapd
 app-emulation/docker
 app-emulation/containerd
 app-emulation/runc
 app-emulation/docker-proxy
 app-emulation/docker-cli
+app-emulation/qemu
 sys-process/tini
 
 dev-java/icedtea
