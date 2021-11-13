@@ -36,6 +36,8 @@ dev-cpp/benchmark
 dev-python/neovim-remote
 dev-python/numba
 
+app-editors/vscode
+
 dev-qt/qt-creator
 dev-qt/qtquicktimeline
 

@@ -18,3 +18,5 @@ net-analyzer/nmap NPSL
 www-client/google-chrome google-chrome
 
 dev-db/mongodb SSPL-1
+
+app-editors/vscode Microsoft-vscode
