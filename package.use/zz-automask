@@ -165,3 +165,9 @@
 # required by @selected
 # required by @world (argument)
 >=media-libs/libheif-1.12.0-r1 x265
+# required by app-office/libreoffice-7.1.5.2::gentoo
+# required by app-office/libreoffice (argument)
+>=dev-libs/xmlsec-1.2.32 nss
+# required by app-office/libreoffice-7.1.5.2::gentoo[dbus]
+# required by app-office/libreoffice (argument)
+>=sys-apps/dbus-1.12.20-r4 X
