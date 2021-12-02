@@ -1,5 +1,5 @@
-sys-devel/llvm gold
-sys-devel/clang default-lld
+sys-devel/llvm gold llvm_targets_WebAssembly
+sys-devel/clang default-lld llvm_targets_WebAssembly
 
 sys-libs/libcxx static-libs
 sys-libs/libcxxabi static-libs
