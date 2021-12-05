@@ -171,3 +171,7 @@
 # required by app-office/libreoffice-7.1.5.2::gentoo[dbus]
 # required by app-office/libreoffice (argument)
 >=sys-apps/dbus-1.12.20-r4 X
+# required by app-emulation/docker-20.10.11::gentoo
+# required by @selected
+# required by @world (argument)
+>=app-emulation/containerd-1.5.7 btrfs
