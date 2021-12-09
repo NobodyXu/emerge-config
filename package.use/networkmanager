@@ -1,2 +1,2 @@
-net-misc/networkmanager bluetooth iwd -ppp -wext
+net-misc/networkmanager bluetooth iwd -ppp -wext -gtk-doc
 gnome-extra/nm-applet appindicator
