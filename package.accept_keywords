@@ -43,9 +43,11 @@ dev-qt/qtquicktimeline
 
 app-emulation/snapd
 app-emulation/docker
-app-emulation/containerd
+# move app-emulation/containerd app-containers/containerd
+app-containers/containerd
 app-emulation/runc
-app-emulation/docker-proxy
+# move app-emulation/docker-proxy app-containers/docker-proxy
+app-containers/docker-proxy
 app-emulation/docker-cli
 app-emulation/qemu
 sys-process/tini

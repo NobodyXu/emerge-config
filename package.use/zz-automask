@@ -174,4 +174,5 @@
 # required by app-emulation/docker-20.10.11::gentoo
 # required by @selected
 # required by @world (argument)
->=app-emulation/containerd-1.5.7 btrfs
+# move app-emulation/containerd app-containers/containerd
+>=app-containers/containerd-1.5.7 btrfs
