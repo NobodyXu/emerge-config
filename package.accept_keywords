@@ -41,14 +41,18 @@ app-editors/vscode
 dev-qt/qt-creator
 dev-qt/qtquicktimeline
 
-app-emulation/snapd
-app-emulation/docker
+# move app-emulation/snapd app-containers/snapd
+app-containers/snapd
+# move app-emulation/docker app-containers/docker
+app-containers/docker
 # move app-emulation/containerd app-containers/containerd
 app-containers/containerd
-app-emulation/runc
+# move app-emulation/runc app-containers/runc
+app-containers/runc
 # move app-emulation/docker-proxy app-containers/docker-proxy
 app-containers/docker-proxy
-app-emulation/docker-cli
+# move app-emulation/docker-cli app-containers/docker-cli
+app-containers/docker-cli
 app-emulation/qemu
 sys-process/tini
 

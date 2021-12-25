@@ -1,1 +1,2 @@
-app-emulation/snapd -cgroup-hybrid
+# move app-emulation/snapd app-containers/snapd
+app-containers/snapd -cgroup-hybrid
