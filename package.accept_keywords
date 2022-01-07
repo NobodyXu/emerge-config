@@ -5,6 +5,9 @@ sys-firmware/nvidia-firmware
 sys-devel/gcc
 sys-fs/bees
 
+virtual/rust
+dev-lang/rust
+
 gui-apps/tuigreet
 gui-apps/waybar
 
