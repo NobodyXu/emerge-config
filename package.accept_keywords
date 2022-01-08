@@ -26,6 +26,7 @@ dev-util/bloaty
 dev-util/github-cli
 dev-util/sccache
 dev-util/rustup
+dev-util/rust-analyzer
 dev-util/perf
 
 dev-libs/capstone
@@ -67,8 +68,6 @@ net-proxy/shadowsocks-libev
 net-libs/libbloom
 net-libs/libcork
 net-libs/libcorkipset
-
-dev-util/rust-analyzer
 
 www-client/firefox
 
