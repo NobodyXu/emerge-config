@@ -1,5 +1,5 @@
-CC="clang"
-CXX="clang++"
+CC="/usr/local/libexec/icecc/bin/clang"
+CXX="/usr/local/libexec/icecc/bin/clang++"
 
 CFLAGS="-march=native -fmerge-all-constants"
 LDFLAGS="-Wl,--gc-sections,--as-needed"

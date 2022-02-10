@@ -15,6 +15,7 @@ media-libs/fcft # Required by foot
 
 dev-libs/spdlog # Required by waybar
 dev-libs/date # Required by waybar
+dev-libs/icu # Required by firefox
 
 gui-libs/greetd
 dev-libs/light

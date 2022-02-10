@@ -1,5 +1,5 @@
-CC="gcc"
-CXX="g++"
+CC="/usr/local/libexec/icecc/bin/gcc"
+CXX="/usr/local/libexec/icecc/bin/g++"
 
 CFLAGS="-march=native -O2 -flto -fomit-frame-pointer -fmerge-all-constants"
 CXXFLAGS="${CFLAGS}"

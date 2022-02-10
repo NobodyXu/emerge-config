@@ -1,4 +1,4 @@
-CC="clang"
-CXX="clang++"
+CC="/usr/local/libexec/icecc/bin/clang"
+CXX="/usr/local/libexec/icecc/bin/clang++"
 CXXFLAGS="-stdlib=libc++ ${CFLAGS}"
 LDFLAGS="-fuse-ld=lld -rtlib=compiler-rt -unwindlib=libunwind ${LDFLAGS}"
