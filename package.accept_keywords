@@ -29,6 +29,7 @@ dev-util/sccache
 dev-util/rustup
 dev-util/rust-analyzer
 dev-util/perf
+dev-util/shellcheck
 
 dev-libs/capstone
 dev-libs/nss
