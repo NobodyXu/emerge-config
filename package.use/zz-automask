@@ -214,3 +214,18 @@
 # required by @selected
 # required by @world (argument)
 >=media-libs/gstreamer-1.18.4 introspection
+# required by sys-libs/compiler-rt-sanitizers-13.0.1::gentoo
+# required by sys-devel/clang-runtime-13.0.1::gentoo[compiler-rt,sanitize]
+# required by sys-devel/clang-13.0.1::gentoo
+# required by www-client/firefox-97.0.2::gentoo
+# required by @selected
+# required by @world (argument)
+>=virtual/libcrypt-2 abi_x86_32
+# required by virtual/libcrypt-2::gentoo
+# required by sys-libs/compiler-rt-sanitizers-13.0.1::gentoo
+# required by sys-devel/clang-runtime-13.0.1::gentoo[compiler-rt,sanitize]
+# required by sys-devel/clang-13.0.1::gentoo
+# required by www-client/firefox-97.0.2::gentoo
+# required by @selected
+# required by @world (argument)
+>=sys-libs/libxcrypt-4.4.27 abi_x86_32
