@@ -19,6 +19,7 @@ dev-libs/icu # Required by firefox
 
 gui-libs/greetd
 dev-libs/light
+dev-libs/wayland-protocols
 
 dev-libs/bemenu
 =dev-libs/nspr-4.32
