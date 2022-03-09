@@ -5,6 +5,11 @@ sys-firmware/nvidia-firmware
 sys-devel/gcc
 sys-fs/bees
 
+# For modern linker mold
+sys-devel/mold
+dev-cpp/tbb
+dev-libs/mimalloc
+
 gui-apps/tuigreet
 gui-apps/waybar
 
