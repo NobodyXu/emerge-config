@@ -1,5 +1,5 @@
 gui-libs/wlroots X
-gui-apps/swaylock filecaps -gdk-pixbuf -pam
+gui-apps/swaylock -filecaps -gdk-pixbuf -pam
 gui-wm/sway X swaybar swaybg swayidle swaylock swaymsg swaynag systemd tray
 
 # use flags for waybar
