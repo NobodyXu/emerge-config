@@ -1,2 +1,2 @@
-CC="/usr/local/libexec/icecc/bin/clang"
+CC="clang"
 CXX="clang++-c++03"

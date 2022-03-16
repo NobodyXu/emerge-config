@@ -1,2 +1,2 @@
 CFLAGS="-march=native -O3 -flto -fmerge-all-constants -fomit-frame-pointer"
-LDFLAGS="-flto -Wl,--gc-sections"
+LDFLAGS="-flto -Wl,--gc-sections -fuse-ld=mold"

@@ -1,7 +1,7 @@
-CC="/usr/local/libexec/icecc/bin/clang"
-CXX="/usr/local/libexec/icecc/bin/clang++"
+CC="clang"
+CXX="clang++"
 
 CFLAGS="-march=native -fmerge-all-constants"
-LDFLAGS="-Wl,--gc-sections,--as-needed"
+LDFLAGS="-Wl,--gc-sections,--as-needed -fuse-ld=mold"
 
 CXXFLAGS="${CFLAGS}"

@@ -1,5 +1,5 @@
-CC="/usr/local/libexec/icecc/bin/clang"
-CXX="/usr/local/libexec/icecc/bin/clang++"
+CC="clang"
+CXX="clang++"
 CFLAGS="-march=native -O2"
 CXXFLAGS="${CFLAGS}"
-LDFLAGS="-fuse-ld=lld -Wl,--gc-sections"
+LDFLAGS="-Wl,--gc-sections -fuse-ld=mold"
