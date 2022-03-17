@@ -46,6 +46,7 @@ dev-python/neovim-remote
 dev-python/numba
 
 app-editors/vscode
+app-doc/zeal
 
 dev-qt/qt-creator
 dev-qt/qtquicktimeline
